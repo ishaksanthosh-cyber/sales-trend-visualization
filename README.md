@@ -1,4 +1,4 @@
-# INTERN ID - CITS4494
+# INTERN ID - CTTS070
 # Sales Trend Visualization
 
 A data analytics project exploring revenue trends, seasonality, and performance breakdowns from retail sales data, built in Jupyter Notebook using pandas, matplotlib, and seaborn.
